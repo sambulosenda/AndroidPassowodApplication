@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidPassowodApplication.iml" filepath="$PROJECT_DIR$/AndroidPassowodApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passapplication/passapplication.iml" filepath="$PROJECT_DIR$/passapplication/passapplication.iml" />
+    </modules>
+  </component>
+</project>
+
